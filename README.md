@@ -11,7 +11,7 @@ I have hands-on experience testing an enterprise banking chatbot, where I checke
 I am proficient in:
 - **Manual Testing** – functional testing, regression testing, and bug tracking using Jira
 - **AI/LLM Testing** – using tools like Promptfoo and DeepEval to test AI chatbot responses
-- **Basic Automation** – Selenium with Java for web testing
+- **Basic Automation** – Playwright with Typescript for web testing
 - **API Testing** – using Postman
 - **Programming Basics** – Python, JavaScript, and TypeScript
 
